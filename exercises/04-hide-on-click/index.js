@@ -1,4 +1,6 @@
 window.myEventListener = function myEventListener()
 {
-	//your code here
+	const container = document.querySelector('#firstDiv');
+	container.style.display = 'none'
+
 }
